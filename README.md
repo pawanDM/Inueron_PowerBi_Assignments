@@ -1,2 +1,2 @@
-# Inueron_PowerBi_Assignments
+# Inueron_PowerBi_Assignment 1
  PowerBi_Installation Assignments
